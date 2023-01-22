@@ -18,8 +18,8 @@ export const projectsData = [
         id: 2,
         image: Work2,
         title: 'Flying Bird Cry',
-        category: 'website',
-        link: 'https://wordpress.com/id/',
+        category: '2D GAME BY UNITY',
+        link: 'https://flyingbirdcry.blogspot.com/2023/01/flying-bird-cry.html',
 
     },
 
