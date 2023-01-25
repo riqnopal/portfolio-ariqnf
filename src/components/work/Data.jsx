@@ -1,8 +1,9 @@
 import Work1 from "../../assets/Thesiml.png"
 import Work2 from "../../assets/Flyingbirdcry.jpg"
 import Work3 from "../../assets/Uidesigner.png"
-import Work4 from "../../assets/Poster.jpeg"
+import Work4 from "../../assets/Movies.png"
 import Work5 from "../../assets/Uidesigner.png"
+import Work6 from "../../assets/Poster.jpeg"
 
 export const projectsData = [
     {
@@ -34,6 +35,15 @@ export const projectsData = [
 
     {
         id: 4,
+        image: Work4,
+        title: 'Web Free Movies',
+        category: 'website',
+        link: 'https://github.com/xcryy/movies-reactJS',
+
+    },
+
+    {
+        id: 5,
         image: Work5,
         title: 'UI Design Mobile & Dekstop Computer Service',
         category: 'UI/UX',
@@ -42,8 +52,8 @@ export const projectsData = [
     },
 
     {
-        id: 5,
-        image: Work4,
+        id: 6,
+        image: Work6,
         title: 'Foundation Poster',
         category: 'Poster',
         link: 'https://www.canva.com/design/DAFYLiUZ6I4/joHnt44yWZmVWLoOh0_Rlg/view?utm_content=DAFYLiUZ6I4&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink',
