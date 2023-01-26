@@ -69,7 +69,7 @@ const Sertif = () => {
                     <h4 className="sertif_company"> INSTITUTE IAIGHURABAA </h4>
                 </div>
 
-                <a href="https://badgr.com/public/assertions/flT_rDaDQtmV8zJrKSeGxA?identity__email=daninur84@gmail.com" target="__blank" className="serfit_button">
+                <a href="https://www.canva.com/design/DAFYw1bUlf4/e6rbZhZpoDJi1iZ7mZnjlg/edit?utm_content=DAFYw1bUlf4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="__blank" className="serfit_button">
                     View Certificate <i className="bx bx-right-arrow-alt sertif_button-icon"></i>
                 </a>
             </div>
